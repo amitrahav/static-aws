@@ -1,0 +1,14 @@
+
+# Created by https://www.gitignore.io/api/basic
+
+### Basic ###
+# Apples Build
+*.build
+*.apples
+
+# Initialized files
+*.exe
+*.ini
+*.basic
+
+# End of https://www.gitignore.io/api/basic
